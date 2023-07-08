@@ -2,7 +2,6 @@
 
 Technologies used
 <ol>
-     <li>Design - Axure</li>
      <li>Express, REST API, postgreSQL, sequelize, jwt</li>
      <li>React, mobx, axios, bootstrap, styled components</li>
 </ol>
